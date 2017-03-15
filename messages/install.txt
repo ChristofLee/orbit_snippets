@@ -1,0 +1,18 @@
+
+==---------------> Orbit snippets <--------------==
+
+Thanks for installing ACF Snippets!
+
+Please see the README.md file for a list of
+available snippets.
+
+==---------------------------------------------==
+
+Feel free to Fork the snippet repo and submit a
+pull request:
+
+   https://github.com/ChristofLee/Orbit_Snippets
+
+==---------------------------------------------==
+
+Cheers!
