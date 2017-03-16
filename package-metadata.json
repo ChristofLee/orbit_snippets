@@ -1,8 +1,0 @@
-{
-	"version": "0.1.0",
-	"url": "https://github.com/ChristofLee/Orbit-Snippets",
-	"dependencies": [],
-	"platforms": ["*"],
-	"sublime_text": "*",
-	"description": "Snippets for Orbit"
-}
