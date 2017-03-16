@@ -1,0 +1,38 @@
+{
+   "scope": "source.sass",
+
+   "completions":
+   [
+      { "trigger": "color-white\t", "contents": "\\$color-white" },
+      { "trigger": "color-black\t", "contents": "\\$color-black" },
+      { "trigger": "color-primary\t", "contents": "\\$color-primary" },
+      { "trigger": "color-secondary\t", "contents": "\\$color-secondary" },
+      { "trigger": "color-standout\t", "contents": "\\$color-standout" },
+      { "trigger": "color-standout-offset\t", "contents": "\\$color-standout-offset" },
+      { "trigger": "color-success\t", "contents": "\\$color-success" },
+      { "trigger": "color-warning\t", "contents": "\\$color-warning" },
+      { "trigger": "color-danger\t", "contents": "\\$color-danger" },
+      { "trigger": "color-disabled\t", "contents": "\\$color-disabled" },
+      { "trigger": "color-subtle\t", "contents": "\\$color-subtle" },
+      { "trigger": "color-text-default\t", "contents": "\\$color-text-default" },
+      { "trigger": "color-text-muted\t", "contents": "\\$color-text-muted" },
+      { "trigger": "color-text-primary\t", "contents": "\\$color-text-primary" },
+      { "trigger": "color-link\t", "contents": "\\$color-link" },
+      { "trigger": "color-link--hover\t", "contents": "\\$color-link--hover" },
+      { "trigger": "color-off-white\t", "contents": "\\$color-off-white" },
+      { "trigger": "color-primary\t", "contents": "\\$color-primary" },
+      { "trigger": "color-secondary\t", "contents": "\\$color-secondary" },
+      { "trigger": "color-standout\t", "contents": "\\$color-standout" },
+      { "trigger": "color-standout-offset\t", "contents": "\\$color-standout-offset" },
+      { "trigger": "color-success\t", "contents": "\\$color-success" },
+      { "trigger": "color-warning\t", "contents": "\\$color-warning" },
+      { "trigger": "color-danger\t", "contents": "\\$color-danger" },
+      { "trigger": "color-disabled\t", "contents": "\\$color-disabled" },
+      { "trigger": "color-subtle\t", "contents": "\\$color-subtle" },
+      { "trigger": "color-text-default\t", "contents": "\\$color-text-default" },
+      { "trigger": "color-text-muted\t", "contents": "\\$color-text-muted" },
+      { "trigger": "color-text-primary\t", "contents": "\\$color-text-primary" },
+      { "trigger": "color-link\t", "contents": "\\$color-link" },
+      { "trigger": "color-link--hover\t", "contents": "\\$color-link--hover" }
+   ]
+}
