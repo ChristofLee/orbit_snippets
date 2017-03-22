@@ -1,7 +1,6 @@
-Orbit Snippets for Sublime Text
-================================================
+# Orbit Snippets for Sublime Text
 
-This is a collection of Sublime Text snippets for Orbit.
+This is a collection of Sublime Text snippets and autocompletions for Orbit.
 
 ## Installation
 
@@ -19,4 +18,12 @@ Copy this folder to the `Packages` folder of your Sublime Text installation.
 
 Mac users: Library/Application Support/Sublime Text/Packages
 
-## Snippets
+### Snippets
+
+Trigger 	| Result 						| Scope
+---			| ---							| ---
+comment 	| A multiline CSS comment 		| CSS, SCSS
+debug 		| `border: 3px dashed red;` 	| CSS, SCSS
+dummy 		| Lots of dummy text
+comment 	| A multiline PHP comment
+showerrors 	| Show PHP errors
