@@ -1,0 +1,38 @@
+{
+   "scope": "source.sass",
+
+   "completions":
+   [
+      { "trigger": "color-white", "contents": "color-white" },
+      { "trigger": "color-black", "contents": "color-black" },
+      { "trigger": "color-primary", "contents": "color-primary" },
+      { "trigger": "color-secondary", "contents": "color-secondary" },
+      { "trigger": "color-standout", "contents": "color-standout" },
+      { "trigger": "color-standout-offset", "contents": "color-standout-offset" },
+      { "trigger": "color-success", "contents": "color-success" },
+      { "trigger": "color-warning", "contents": "color-warning" },
+      { "trigger": "color-danger", "contents": "color-danger" },
+      { "trigger": "color-disabled", "contents": "color-disabled" },
+      { "trigger": "color-subtle", "contents": "color-subtle" },
+      { "trigger": "color-text-default", "contents": "color-text-default" },
+      { "trigger": "color-text-muted", "contents": "color-text-muted" },
+      { "trigger": "color-text-primary", "contents": "color-text-primary" },
+      { "trigger": "color-link", "contents": "color-link" },
+      { "trigger": "color-link--hover", "contents": "color-link--hover" },
+      { "trigger": "color-off-white", "contents": "color-off-white" },
+      { "trigger": "color-primary", "contents": "color-primary" },
+      { "trigger": "color-secondary", "contents": "color-secondary" },
+      { "trigger": "color-standout", "contents": "color-standout" },
+      { "trigger": "color-standout-offset", "contents": "color-standout-offset" },
+      { "trigger": "color-success", "contents": "color-success" },
+      { "trigger": "color-warning", "contents": "color-warning" },
+      { "trigger": "color-danger", "contents": "color-danger" },
+      { "trigger": "color-disabled", "contents": "color-disabled" },
+      { "trigger": "color-subtle", "contents": "color-subtle" },
+      { "trigger": "color-text-default", "contents": "color-text-default" },
+      { "trigger": "color-text-muted", "contents": "color-text-muted" },
+      { "trigger": "color-text-primary", "contents": "color-text-primary" },
+      { "trigger": "color-link", "contents": "color-link" },
+      { "trigger": "color-link--hover", "contents": "color-link--hover" }
+   ]
+}
