@@ -1,0 +1,28 @@
+{
+   "scope": "source.sass",
+
+   "completions":
+   [
+      { "trigger": "space\t", "contents": "\\$space" },
+      { "trigger": "space-half\t", "contents": "\\$space-half" },
+      { "trigger": "space-third\t", "contents": "\\$space-third" },
+      { "trigger": "space-quarter\t", "contents": "\\$space-quarter" },
+      { "trigger": "space-fifth\t", "contents": "\\$space-fifth" },
+      { "trigger": "space-sixth\t", "contents": "\\$space-sixth" },
+      { "trigger": "space-eighth\t", "contents": "\\$space-eighth" },
+      { "trigger": "space-twelfth\t", "contents": "\\$space-twelfth" },
+      { "trigger": "space-two-thirds\t", "contents": "\\$space-two-thirds" },
+      { "trigger": "space-three-quarters\t", "contents": "\\$space-three-quarters" },
+      { "trigger": "space-and-eighth\t", "contents": "\\$space-and-eighth" },
+      { "trigger": "space-and-sixth\t", "contents": "\\$space-and-sixth" },
+      { "trigger": "space-and-fifth\t", "contents": "\\$space-and-fifth" },
+      { "trigger": "space-and-quarter\t", "contents": "\\$space-and-quarter" },
+      { "trigger": "space-and-third\t", "contents": "\\$space-and-third" },
+      { "trigger": "space-and-half\t", "contents": "\\$space-and-half" },
+      { "trigger": "space-and-two-thirds\t", "contents": "\\$space-and-two-thirds" },
+      { "trigger": "space-and-three-quarters\t", "contents": "\\$space-and-three-quarters" },
+      { "trigger": "space-double\t", "contents": "\\$space-double" },
+      { "trigger": "space-triple\t", "contents": "\\$space-triple" },
+      { "trigger": "space-quadruple\t", "contents": "\\$space-quadruple" }
+   ]
+}
